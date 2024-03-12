@@ -14,3 +14,5 @@
 que é a versão mais recente baseada no modelo 7B, o processo consistiu em baixar o modelo, e transferir para uma pasta chamada Models, onde importamos no nosso arquivo app.js, como houve integração com Front-End juntamente com Back-End devido as regras de negócio, 
 utilizou-se do framework Express para fazer esse processo de uma forma mais simplificada, o modelo anteriormente foi testado apenas com chamadas de API de um serviço chamado Replicate, porém houve bastante inconsistência nos dados recebidos do modelo hospedado, 
 devido a isso, optou-se por testar o modelo localmente sem muitos problemas na aplicação</h3>
+
+# Clique [aqui](https://www.youtube.com/watch?v=6TIxSdrFl8w) para assistir ao vídeo de teste do modelo.
