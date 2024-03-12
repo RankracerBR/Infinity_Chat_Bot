@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/css/style.css"/>
 </head>
-
 <body>
     <div class="container-fluid h-100">
         <div class="row justify-content-center h-100">      
@@ -20,7 +19,7 @@
                                 <span class="online_icon"></span>
                             </div>
                             <div class="user_info">
-                                <span>ChatBot</span>
+                                <span>InfinityChatBot</span>
                                 <p>Ask me anything!</p>
                             </div>
                         </div>
@@ -59,7 +58,7 @@
                     type: "POST",
                     url: "/message",        
                     contentType: "application/json",
-                    data: JSON.stringify({ message: rawText }), // Corrigido aqui
+                    data: JSON.stringify({ message: rawText }),
                 }).done(function(data) {
                     var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://pngimg.com/uploads/symbol_infinity/symbol_infinity_PNG35.png" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data.text + '<span class="msg_time">' + str_time + '</span></div></div>';
                     $("#messageFormeight").append($.parseHTML(botHtml));
@@ -68,6 +67,5 @@
             });
         });
     </script>
-    
 </body>
 </html>
