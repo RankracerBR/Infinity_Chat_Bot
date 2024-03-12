@@ -15,7 +15,7 @@ que é a versão mais recente baseada no modelo 7B, o processo consistiu em baix
 utilizou-se do framework Express para fazer esse processo de uma forma mais simplificada, o modelo anteriormente foi testado apenas com chamadas de API de um serviço chamado Replicate, porém houve bastante inconsistência nos dados recebidos do modelo hospedado, 
 devido a isso, optou-se por testar o modelo localmente sem muitos problemas na aplicação</h3>
 
-# Clique [aqui](https://www.youtube.com/watch?v=6TIxSdrFl8w) para assistir ao vídeo de teste do modelo (Duração: 3.54).
+# Clique [aqui](https://www.youtube.com/watch?v=6TIxSdrFl8w) para assistir ao vídeo de teste do modelo (Duração: 3.54)
 
 # -Estrutura Back-End (app.js)
 ```Node.js
