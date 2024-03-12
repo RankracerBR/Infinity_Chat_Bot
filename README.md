@@ -18,7 +18,7 @@ devido a isso, optou-se por testar o modelo localmente sem muitos problemas na a
 # Clique [aqui](https://www.youtube.com/watch?v=6TIxSdrFl8w) para assistir ao vídeo de teste do modelo.
 
 # -Estrutura Back-End (app.js)
-```
+```Node.js
 import express from 'express';
 import { fileURLToPath } from 'url';
 import path from 'path';
@@ -66,7 +66,7 @@ app.listen(port, () => {
 });
 ```
 # -Estrutura do Front-End (HTML)
-```
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -141,7 +141,7 @@ app.listen(port, () => {
 ```
 
 # -Estrutura do Front-End (CSS)
-```
+```CSS
 body,html{
 	height: 100%;
 	margin: 0;
@@ -366,5 +366,3 @@ border-radius: 0 0 15px 15px !important;
 }
 }
 ```
-
-
