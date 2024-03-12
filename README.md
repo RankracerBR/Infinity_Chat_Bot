@@ -1,4 +1,4 @@
-# Projeto InfinitBotChat 
+# Projeto InfinityBotChat 
 <img src="https://www.canny-creative.com/wp-content/uploads/2022/01/247310866_1564095240610404_904982525171753308_n-1.gif">
 
 # -Esse projeto consistiu em usar o modelo LLAMA 2🦙 da Meta, para criar um chatbot com respostas coerentes, utilizando das seguintes tecnologias abaixo:  
