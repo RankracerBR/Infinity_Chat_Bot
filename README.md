@@ -1,5 +1,7 @@
-# -Esse projeto consistiu em usar o modelo LLAMA 2🦙 da Meta, para criar um chatbot com respostas coerentes <img src="https://cdn-icons-png.flaticon.com/512/6033/6033716.png" >
-<h2>-As tecnologias usadas foram: </h2>
+<img src="https://www.canny-creative.com/wp-content/uploads/2022/01/247310866_1564095240610404_904982525171753308_n-1.gif">
+
+# -Esse projeto consistiu em usar o modelo LLAMA 2🦙 da Meta, para criar um chatbot com respostas coerentes, utilizando das seguintes tecnologias abaixo:  
+
 <ul>
    <li>HTML <img height="30" width="30" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png"></li>
    <li>CSS <img height="25" width="25" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"></li>
